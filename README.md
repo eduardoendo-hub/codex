@@ -7,3 +7,5 @@ Landing page da **Formação Codex Pro: do Chat à Automação** — Impacta × 
 - Deploy: Coolify (build pack Dockerfile, porta 80). Push na `main` → redeploy.
 
 Para atualizar: substituir `index.html`, commit e push.
+
+Deploy automático: webhook GitHub → Coolify (push na `main` publica sozinho).
